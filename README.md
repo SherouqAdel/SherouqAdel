@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Sherouk
-#### flutter developer
+
 fresh graduated from faculty of computers and information
 
 
